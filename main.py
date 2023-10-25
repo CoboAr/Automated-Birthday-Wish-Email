@@ -17,7 +17,8 @@ MY_PASSWORD = os.environ.get("Password")
 today = datetime.now()
 # Tuple with today's mondh and day
 today_tuple = (today.month, today.day)
-print(today_tuple)
+print(f"Today date (month, day) {today_tuple} \n")
+print("Script successfully run.")
 # Read birthday.csv file
 data = pandas.read_csv("birthdays.csv")
 birthdays_dict = {(data_row["month"], data_row["day"]): data_row for (index, data_row) in data.iterrows()}
