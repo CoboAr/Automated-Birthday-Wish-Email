@@ -85,7 +85,7 @@ Step 8: Click Tasks and setup a daily task for 1 month
 
 After setting the time when we want to run the script on a daily basis, we need to add the run command including the environmental variables otherwise the script won't run:
 
-export MyEmail=emripacaktuar@gmail.com; export  Password=****************; python3 main.py
+export MyEmail=em***********@gmail.com; export  Password=****************; python3 main.py
 
 Then click create button and the script is set to run on the specified time, on daily basis for 1 month. Each month the task needs to be recreated in order to run the script automatically all year round.     
 
