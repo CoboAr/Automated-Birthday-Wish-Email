@@ -71,16 +71,15 @@ Step 5: Click main.py and then Bash console here
 
 Step 6: Add environmental variables for email and password  (The asterixs should be replaced by the app password generated during Gmail configuration Step 3.
 
-<img width="1430" alt="Add Environmental Variables" src="https://github.com/CoboAr/Automated-Birthday-Wish-Email/assets/144629565/36cb65cc-2bdc-4e9c-9ce9-4d495b27bfbc">    
+![1](https://github.com/CoboAr/Automated-Birthday-Wish-Email/assets/144629565/94a21bb9-f70e-43e3-aa9b-6e17a5138718)
 
 Step 7: Run scrip with command "python3 main.py"   
 
-<img width="1424" alt="Run Script" src="https://github.com/CoboAr/Automated-Birthday-Wish-Email/assets/144629565/95340d49-107e-477a-901b-ab23de7808d3">   
-
+![2](https://github.com/CoboAr/Automated-Birthday-Wish-Email/assets/144629565/003e836f-4dcd-408c-8777-541f40b1eba7)
 
 Step 8: Click Tasks and setup a daily task for 1 month
 
-<img width="816" alt="Click Tasks" src="https://github.com/CoboAr/Automated-Birthday-Wish-Email/assets/144629565/c29f9bd3-0b1f-4921-b36f-69853b097b13">      
+![3](https://github.com/CoboAr/Automated-Birthday-Wish-Email/assets/144629565/98145681-66eb-4f5d-89a9-6ed3b4976440)
 
 
 After setting the time when we want to run the script on a daily basis, we need to add the run command including the environmental variables otherwise the script won't run:
