@@ -92,8 +92,6 @@ Then click create button and the script is set to run on the specified time, on 
 
 <img width="1439" alt="Create Task" src="https://github.com/CoboAr/Automated-Birthday-Wish-Email/assets/144629565/05e5708f-5e9e-43b6-92f2-3ae3b3b49577">
 
-<img width="1440" alt="Task Created" src="https://github.com/CoboAr/Automated-Birthday-Wish-Email/assets/144629565/c39ebb17-5cc0-431b-bb6d-a141a27b2f45">
-
 Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
 ## Author
 ## Arnold Cobo
